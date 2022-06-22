@@ -1,0 +1,1 @@
+alert('Name: Ufot Edith Eno\nHeight: 5ft 7inches\nCountry: Nigeria');
